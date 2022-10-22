@@ -37,30 +37,3 @@ img {
     width: 100%;
     height: 100%;
   }
-
-
-  #text-slider-container{
-    position:relative;
-    margin-top: 30px;
-}
-#text-slider-box{
-    position: absolute;
-    left: 0;
-    right: 0;
-    width: 80%;
-    height: 20%;
-    margin: 0 auto;
-    border-radius: 10px;
-    background: #FFEB3B;        
-}
-
-/* テキストの位置調整 */
-#text-slider .txt{
-    text-align: center;
-    margin: 35px 0;
-}
-
-#text-slider{
-  width: 80%;
-  margin: 0 auto;
-}
